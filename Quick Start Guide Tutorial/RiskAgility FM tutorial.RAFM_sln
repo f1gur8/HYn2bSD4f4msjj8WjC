@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# RiskAgility FM Solution File, Format Version 12.00
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FD178842-400C-46A2-9AFC-9FE11EBFF98C}") = "RiskAgility FM Tutorial", "Project\RiskAgility FM Tutorial.msproj", "{FE1B8ABD-B6BA-4C45-9B5E-E02E203EC4FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+		Description = Tutorial Solution to be used with the Quick Start Guide
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE1B8ABD-B6BA-4C45-9B5E-E02E203EC4FE}.Release|Mixed Platforms.ActiveCfg = Release|x64
+		{FE1B8ABD-B6BA-4C45-9B5E-E02E203EC4FE}.Release|Mixed Platforms.Build.0 = Release|x64
+		{FE1B8ABD-B6BA-4C45-9B5E-E02E203EC4FE}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41B49CF0-67F1-47F0-A344-440DB04C6542}
+	EndGlobalSection
+EndGlobal
